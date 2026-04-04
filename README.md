@@ -1,17 +1,14 @@
 # Cornelius Abhulimhen Portfolio
 
 ## About Me
-Aspiring programmer with skills in Python, JavaScript, and Web Development.
+Aspiring Python developer. I enjoy building small tools and scripts to solve problems.
 
 ## Skills
 - Python
-- JavaScript
-- HTML/CSS
 
 ## Projects
-1. **Calculator App** - A Python calculator. [Folder](projects/project1/)
-2. **Portfolio Website** - HTML/CSS website. [Folder](projects/project2/)
+1. **Calculator App** - Python program for basic math operations. [View project](projects/project1/calculator.py)
 
 ## Contact
-Email: yourname@example.com
-GitHub: [github.com/username](https://github.com/username)
+Email: yourname@example.com  
+GitHub: [https://github.com/username](https://github.com/username)
