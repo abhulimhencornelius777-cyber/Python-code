@@ -7,8 +7,8 @@ Aspiring Python developer. I enjoy building small tools and scripts to solve pro
 - Python
 
 ## Projects
-1. **Calculator App** - Python program for basic math operations. [View project](projects/project1/calculator.py)
+1. **Calculator App** - Python program for basic math operations. [calculator.py](projects/project1/calculator.py)
 
 ## Contact
-Email: yourname@example.com  
-GitHub: [https://github.com/username](https://github.com/username)
+Email: abhulimhen Cornelius 777@gmail.com  
+GitHub: [https://github.com/abhulimhen Cornelius](https://github.com/abhulimhen Cornelius)
